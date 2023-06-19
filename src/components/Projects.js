@@ -29,6 +29,7 @@ import art14_p2 from "../assets/pro/3D Arts/p2.png";
 
 import yt_intro from "../assets/pro/Youtube Thumbnails/intro.png";
 import yt_ep1 from "../assets/pro/Youtube Thumbnails/ep1.png";
+import yt_kc1 from "../assets/pro/Youtube Thumbnails/kc1.png";
 
 
 export const Projects = () => {
@@ -145,6 +146,11 @@ export const Projects = () => {
   ];
 
   const youtube = [
+    {
+      title: "Podcast | Episode 1",
+      description: "Discussion about Cyclone: https://www.youtube.com/watch?v=aqmyCpF_q4c&t=21s",
+      imgUrl: yt_kc1,
+    },
     {
       title: "Podcast | Episode 1",
       description: "Discussion about Cyclone: https://www.youtube.com/watch?v=aqmyCpF_q4c&t=21s",
