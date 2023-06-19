@@ -147,8 +147,8 @@ export const Projects = () => {
 
   const youtube = [
     {
-      title: "Podcast | Episode 1",
-      description: "Discussion about Cyclone: https://www.youtube.com/watch?v=aqmyCpF_q4c&t=21s",
+      title: "Karaoke Challange 1",
+      description: "Watch video: https://www.youtube.com/watch?v=9cwt0eppAkU",
       imgUrl: yt_kc1,
     },
     {
