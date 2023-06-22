@@ -30,6 +30,7 @@ import art14_p2 from "../assets/pro/3D Arts/p2.png";
 import yt_intro from "../assets/pro/Youtube Thumbnails/intro.png";
 import yt_ep1 from "../assets/pro/Youtube Thumbnails/ep1.png";
 import yt_kc1 from "../assets/pro/Youtube Thumbnails/kc1.png";
+import yt_wc1 from "../assets/pro/Youtube Thumbnails/wc1.png";
 
 
 export const Projects = () => {
@@ -147,7 +148,12 @@ export const Projects = () => {
 
   const youtube = [
     {
-      title: "Karaoke Challange 1",
+      title: "Wishper Challange",
+      description: "Watch video: https://www.youtube.com/watch?v=0is44dxkkl0",
+      imgUrl: yt_wc1,
+    },
+    {
+      title: "Karaoke Challange",
       description: "Watch video: https://www.youtube.com/watch?v=9cwt0eppAkU",
       imgUrl: yt_kc1,
     },
